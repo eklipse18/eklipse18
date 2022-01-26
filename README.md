@@ -6,6 +6,7 @@
   
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vthechamp22&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
+
 - 🌱 I’m currently learning Next.JS
 - 🤔 I’m looking for help with Next.JS
 - 💬 Ask me about Python
@@ -21,23 +22,24 @@
 ### Frontend
 
 <div align="center">  
-    <img style="margin: 10px" src="./images/react.svg" alt="React" height="50" />  
-    <img style="margin: 10px" src="./images/bootstrap.svg" alt="Bootstrap" height="50" />  
-    <img style="margin: 10px" src="./images/css3.svg" alt="CSS3" height="50" />  
-    <img style="margin: 10px" src="./images/html5.svg" alt="HTML5" height="50" />  
-    <img style="margin: 10px" src="./images/electron.svg" alt="Electron" height="50" />  
-    <img style="margin: 10px" src="./images/javascript.svg" alt="JavaScript" height="50" />  
-    <img style="margin: 10px" src="./images/typescript.svg" alt="TypeScript" height="50" />  
-    <img style="margin: 10px" src="./images/nodedotjs.svg" alt="Node.js" height="50" />  
-    <img style="margin: 10px" src="./images/php.svg" alt="PHP" height="50" />  
-    <img style="margin: 10px" src="./images/wordpress.svg" alt="WordPress" height="50" />  
-    <img style="margin: 10px" src="./images/django.svg" alt="Django" height="50" />  
-    <img style="margin: 10px" src="./images/python.svg" alt="Python" height="50" />  
-    <img style="margin: 10px" src="./images/angularjs.svg" alt="Angular" height="50" />  
-    <img style="margin: 10px" src="./images/figma.svg" alt="Figma" height="50" />  
-    <img style="margin: 10px" src="./images/flask.svg" alt="Flask" height="50" />  
-    <img style="margin: 10px" src="./images/blender.svg" alt="Blender" height="50" />  
-    <img style="margin: 10px" src="./images/jquery.svg" alt="jQuery" height="50" />  
+<img style="margin: 10px" src="./images/react.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="./images/bootstrap.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="./images/css3.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="./images/html5.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="./images/electron.svg" alt="Electron" height="50" />  
+<img style="margin: 10px" src="./images/javascript.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="./images/typescript.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="./images/nodedotjs.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="./images/php.svg" alt="PHP" height="50" />  
+<img style="margin: 10px" src="./images/wordpress.svg" alt="WordPress" height="50" />  
+<img style="margin: 10px" src="./images/django.svg" alt="Django" height="50" />  
+<img style="margin: 10px" src="./images/python.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="./images/angularjs.svg" alt="Angular" height="50" />  
+<img style="margin: 10px" src="./images/figma.svg" alt="Figma" height="50" />  
+<img style="margin: 10px" src="./images/flask.svg" alt="Flask" height="50" />  
+<img style="margin: 10px" src="./images/chartdotjs.svg" alt="Chart.js" height="50" />
+<img style="margin: 10px" src="./images/blender.svg" alt="Blender" height="50" />  
+<img style="margin: 10px" src="./images/jquery.svg" alt="jQuery" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -62,7 +64,6 @@
 <img style="margin: 10px" src="./images/opencv.svg" alt="OpenCV" height="50" />  
 <img style="margin: 10px" src="./images/redis.svg" alt="Redis" height="50" />  
 <img style="margin: 10px" src="./images/mysql.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="./images/chartdotjs.svg" alt="Chart.js" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
