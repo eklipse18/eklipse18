@@ -4,16 +4,9 @@
   
 ### <div align="center">An enthusiastic developer 👨‍💻 coding since 2019 🚀</div>  
   
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vthechamp22&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=eklipse18&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 <br />
-
-- 🌱 I’m currently learning Next.JS
-- 🤔 I’m looking for help with Next.JS
-- 💬 Ask me about Python
-- 😄 Pronouns: He/Him
-
-
 ## Skills
 
 <table><tr><td valign="top" width="33%">
