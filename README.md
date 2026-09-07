@@ -1,10 +1,20 @@
-<div align="center">
+## 👋 About Me
+
+I'm **Vivaan**, an AI undergrad at **IIT Hyderabad** building things across the
+stack — from React frontends to backend APIs to the ML models behind them.
+
+- 🔭 Currently sharpening my skills in **applied ML**
+- 🌱 Learning: LLM tooling, RAG pipelines, and system design
+- 💬 Ask me about: React, Node.js, or PyTorch — happy to nerd out
+- ⚡ Open to internships in software engineering, full-stack, or ML/AI roles
+- Currently working on: [musique](https://github.com/eklipse18/musique) — a playlist sync platform
+<!-- <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+vivaan+%F0%9F%91%8B;An+enthusiastic+developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;On+the+grind+since+2019+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
-<br />
+<br /> -->
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=eklipse18&show_icons=true&include_all_commits=true&theme=github_dark" align="center" />
@@ -44,23 +54,21 @@
 
 <div align="center">
 <img style="margin: 10px" src="./images/react.svg" alt="React" height="50" />
-<img style="margin: 10px" src="./images/bootstrap.svg" alt="Bootstrap" height="50" />
 <img style="margin: 10px" src="./images/css3.svg" alt="CSS3" height="50" />
 <img style="margin: 10px" src="./images/html5.svg" alt="HTML5" height="50" />
-<img style="margin: 10px" src="./images/electron.svg" alt="Electron" height="50" />
+<!-- <img style="margin: 10px" src="./images/electron.svg" alt="Electron" height="50" /> -->
 <img style="margin: 10px" src="./images/javascript.svg" alt="JavaScript" height="50" />
 <img style="margin: 10px" src="./images/typescript.svg" alt="TypeScript" height="50" />
-<img style="margin: 10px" src="./images/nodedotjs.svg" alt="Node.js" height="50" />
-<img style="margin: 10px" src="./images/php.svg" alt="PHP" height="50" />
-<img style="margin: 10px" src="./images/wordpress.svg" alt="WordPress" height="50" />
-<img style="margin: 10px" src="./images/django.svg" alt="Django" height="50" />
+<!-- <img style="margin: 10px" src="./images/nodedotjs.svg" alt="Node.js" height="50" />
+<img style="margin: 10px" src="./images/php.svg" alt="PHP" height="50" /> -->
+<!-- <img style="margin: 10px" src="./images/wordpress.svg" alt="WordPress" height="50" />
 <img style="margin: 10px" src="./images/python.svg" alt="Python" height="50" />
-<img style="margin: 10px" src="./images/angularjs.svg" alt="Angular" height="50" />
+<img style="margin: 10px" src="./images/angularjs.svg" alt="Angular" height="50" /> -->
 <img style="margin: 10px" src="./images/figma.svg" alt="Figma" height="50" />
-<img style="margin: 10px" src="./images/flask.svg" alt="Flask" height="50" />
+<!-- <img style="margin: 10px" src="./images/flask.svg" alt="Flask" height="50" />
 <img style="margin: 10px" src="./images/chartdotjs.svg" alt="Chart.js" height="50" />
 <img style="margin: 10px" src="./images/blender.svg" alt="Blender" height="50" />
-<img style="margin: 10px" src="./images/jquery.svg" alt="jQuery" height="50" />
+<img style="margin: 10px" src="./images/jquery.svg" alt="jQuery" height="50" /> -->
 </div>
 
 </td><td valign="top" width="25%">
@@ -68,23 +76,25 @@
 ### Backend
 
 <div align="center">
-<img style="margin: 10px" src="./images/javascript.svg" alt="JavaScript" height="50" />
+<!-- <img style="margin: 10px" src="./images/javascript.svg" alt="JavaScript" height="50" /> -->
 <img style="margin: 10px" src="./images/typescript.svg" alt="TypeScript" height="50" />
-<img style="margin: 10px" src="./images/php.svg" alt="PHP" height="50" />
+<!-- <img style="margin: 10px" src="./images/php.svg" alt="PHP" height="50" /> -->
 <img style="margin: 10px" src="./images/mongodb.svg" alt="MongoDB" height="50" />
 <img style="margin: 10px" src="./images/nodedotjs.svg" alt="Node.js" height="50" />
-<img style="margin: 10px" src="./images/linux.svg" alt="Linux" height="50" />
-<img style="margin: 10px" src="./images/nginx.svg" alt="Nginx" height="50" />
+<!-- <img style="margin: 10px" src="./images/linux.svg" alt="Linux" height="50" /> -->
+<!-- <img style="margin: 10px" src="./images/nginx.svg" alt="Nginx" height="50" /> -->
 <img style="margin: 10px" src="./images/python.svg" alt="Python" height="50" />
+<img style="margin: 10px" src="./images/django.svg" alt="Django" height="50" />
 <img style="margin: 10px" src="./images/express.svg" alt="Express.js" height="50" />
-<img style="margin: 10px" src="./images/git.svg" alt="Git" height="50" />
+<!-- <img style="margin: 10px" src="./images/git.svg" alt="Git" height="50" />
 <img style="margin: 10px" src="./images/redux.svg" alt="Redux" height="50" />
 <img style="margin: 10px" src="./images/gnubash.svg" alt="Bash" height="50" />
 <img style="margin: 10px" src="./images/mariadb.svg" alt="Maria DB" height="50" />
 <img style="margin: 10px" src="./images/wordpress.svg" alt="WordPress" height="50" />
 <img style="margin: 10px" src="./images/opencv.svg" alt="OpenCV" height="50" />
-<img style="margin: 10px" src="./images/redis.svg" alt="Redis" height="50" />
+<img style="margin: 10px" src="./images/redis.svg" alt="Redis" height="50" /> -->
 <img style="margin: 10px" src="./images/mysql.svg" alt="MySQL" height="50" />
+<img style="margin: 10px" src="./images/postgresql.svg" alt="PostgreSQL" height="50" />
 </div>
 
 </td><td valign="top" width="25%">
@@ -98,8 +108,9 @@
 <img style="margin: 10px" src="./images/linux.svg" alt="Linux" height="50" />
 <img style="margin: 10px" src="./images/git.svg" alt="Git" height="50" />
 <img style="margin: 10px" src="./images/gnubash.svg" alt="Bash" height="50" />
-<img style="margin: 10px" src="./images/powershell.svg" alt="PowerShell" height="50" />
+<!-- <img style="margin: 10px" src="./images/powershell.svg" alt="PowerShell" height="50" /> -->
 <img style="margin: 10px" src="./images/docker.svg" alt="Docker" height="50" />
+<img style="margin: 10px" src="./images/githubactions.svg" alt="GitHub Actions" height="50" />
 </div>
 
 </td>
@@ -115,7 +126,7 @@
 <img style="margin: 10px" src="./images/scikitlearn.svg" alt="scikit-learn" height="50" />
 <img style="margin: 10px" src="./images/numpy.svg" alt="NumPy" height="50" />
 <img style="margin: 10px" src="./images/pandas.svg" alt="Pandas" height="50" />
-<img style="margin: 10px" src="./images/jupyter.svg" alt="Jupyter" height="50" />
+<!-- <img style="margin: 10px" src="./images/jupyter.svg" alt="Jupyter" height="50" /> -->
 <img style="margin: 10px" src="./images/opencv.svg" alt="OpenCV" height="50" />
 <img style="margin: 10px" src="./images/huggingface.svg" alt="Hugging Face" height="50" />
 </div>
