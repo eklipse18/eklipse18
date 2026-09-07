@@ -47,7 +47,7 @@
 
 ## 🛠️ Skills
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="25%">
 
 ### Frontend
 
@@ -72,7 +72,7 @@
 <img style="margin: 10px" src="./images/jquery.svg" alt="jQuery" height="50" />
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 ### Backend
 
@@ -96,7 +96,7 @@
 <img style="margin: 10px" src="./images/mysql.svg" alt="MySQL" height="50" />
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 ### DevOps
 
@@ -109,6 +109,24 @@
 <img style="margin: 10px" src="./images/gnubash.svg" alt="Bash" height="50" />
 <img style="margin: 10px" src="./images/powershell.svg" alt="PowerShell" height="50" />
 <img style="margin: 10px" src="./images/docker.svg" alt="Docker" height="50" />
+</div>
+
+</td>
+
+<td valign="top" width="25%">
+
+### AI/ML
+
+<div align="center">
+<img style="margin: 10px" src="./images/python.svg" alt="Python" height="50" />
+<img style="margin: 10px" src="./images/tensorflow.svg" alt="TensorFlow" height="50" />
+<img style="margin: 10px" src="./images/pytorch.svg" alt="PyTorch" height="50" />
+<img style="margin: 10px" src="./images/scikitlearn.svg" alt="scikit-learn" height="50" />
+<img style="margin: 10px" src="./images/numpy.svg" alt="NumPy" height="50" />
+<img style="margin: 10px" src="./images/pandas.svg" alt="Pandas" height="50" />
+<img style="margin: 10px" src="./images/jupyter.svg" alt="Jupyter" height="50" />
+<img style="margin: 10px" src="./images/opencv.svg" alt="OpenCV" height="50" />
+<img style="margin: 10px" src="./images/huggingface.svg" alt="Hugging Face" height="50" />
 </div>
 
 </td></tr></table>
