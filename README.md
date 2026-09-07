@@ -7,7 +7,7 @@ stack — from React frontends to backend APIs to the ML models behind them.
 - 🌱 Learning: LLM tooling, RAG pipelines, and system design
 - 💬 Ask me about: React, Node.js, or PyTorch — happy to nerd out
 - ⚡ Open to internships in software engineering, full-stack, or ML/AI roles
-- Currently working on: [musique](https://github.com/eklipse18/musique) — a playlist sync platform
+- 🤖 Currently working on: [musique](https://github.com/eklipse18/musique) — a playlist sync platform
 <!-- <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+vivaan+%F0%9F%91%8B;An+enthusiastic+developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;On+the+grind+since+2019+%F0%9F%9A%80" alt="Typing SVG" />
